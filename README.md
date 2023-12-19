@@ -2,7 +2,9 @@
 
 **2020년 2학기 오픈소스 소프트웨어 프로젝트** (SCS-4045)
 
-프로젝트 저장소: [2020-2-OSSP-3P-1](https://github.com/CSID-DGU/2020-2-OSSP-3P-1)
+프로젝트 저장소: [2020-2-OSSP-3P-1](https://github.com/CSID-DGU/2020-2-OSSP-3P-1)  
+
+자세한 내용은 ```src/presentation.pdf``` 참고
 
 ## 프로젝트 배경
 ### (1) 생계형 창업의 증가
