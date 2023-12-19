@@ -60,6 +60,7 @@
 </p>
 
 ## 사용법
+- [구글드라이브](https://drive.google.com/drive/folders/1V9okDk4UEJL9BMSpnO59PRy8_LNyfCpW?usp=drive_link)에서 데이터 다운로드 후 ```data``` 폴더에 저장
 - ```main.ipynb```에서 순차적으로 셀 실행
 
 ## 레퍼런스
